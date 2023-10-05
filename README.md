@@ -21,8 +21,8 @@
     <tr>
       <th scope="row">semester-2</th>
       <td>
-        <a href="">java</a><br/>
-        <a href="">Dbms-i</a> 
+        <a href="https://github.com/niravkagathara/Semester-2">java</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-2">Dbms-i</a> 
       </td>
     </tr>
     <tr>
