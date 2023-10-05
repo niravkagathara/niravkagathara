@@ -30,7 +30,7 @@
       <td>
         <a href="https://github.com/niravkagathara/Semester-3">dbms-ii</a><br/>
         <a href="https://github.com/niravkagathara/Semester-3">Data-Structure</a><br/>
-        <a href="https://github.com/niravkagathara/Semester-3">Web-technology</a>⇒<a href="">Java-script</a>-<a href="">React-js</a>-
+        <a href="https://github.com/niravkagathara/Semester-3">Web-technology</a>⇒<a href="https://github.com/niravkagathara/Semester-3">Java-script</a>-<a href="https://github.com/niravkagathara/Semester-3">React-js</a>-
         <a href="https://github.com/niravkagathara/Semester-3">Node-JS</a>
       </td>
     </tr>
