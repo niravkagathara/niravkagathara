@@ -11,11 +11,11 @@
   <tbody>
     <tr>
       <th scope="row">semester-1</th>
-      <td><a href="">c-language</a> <br/>
-      <a href="">Web-designing</a>⇒
-        <a href="">HTML</a>-
-        <a href="">CSS</a>-
-        <a href="">Bootstrap</a>
+      <td><a href="https://github.com/niravkagathara/Semester-1">c-language</a> <br/>
+      <a href="https://github.com/niravkagathara/Semester-1">Web-designing</a>⇒
+        <a href="https://github.com/niravkagathara/Semester-1">HTML</a>-
+        <a href="https://github.com/niravkagathara/Semester-1">CSS</a>-
+        <a href="https://github.com/niravkagathara/Semester-1">Bootstrap</a>
       </td>
     </tr>
     <tr>
