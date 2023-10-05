@@ -28,10 +28,10 @@
     <tr>
       <th scope="row">semester-3</th>
       <td>
-        <a href="">dbms-ii</a><br/>
-        <a href="">Data-Structure</a><br/>
-        <a href="">Web-technology</a>⇒<a href="">Java-script</a>-<a href="">React-js</a>-
-        <a href="">Node-JS</a>
+        <a href="https://github.com/niravkagathara/Semester-3">dbms-ii</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-3">Data-Structure</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-3">Web-technology</a>⇒<a href="">Java-script</a>-<a href="">React-js</a>-
+        <a href="https://github.com/niravkagathara/Semester-3">Node-JS</a>
       </td>
     </tr>
   </tbody>
