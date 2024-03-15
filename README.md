@@ -34,6 +34,15 @@
         <a href="https://github.com/niravkagathara/Semester-3">Node-JS</a>
       </td>
     </tr>
+     <tr>
+      <th scope="row">semester-4</th>
+      <td>
+        <a href="https://github.com/niravkagathara/Semester-4">flutter</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-4">Daa</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-4">Python</a>
+        <a href="https://github.com/niravkagathara/Semester-4">os</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
