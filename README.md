@@ -52,6 +52,16 @@
         <a href="https://github.com/niravkagathara/Semester-5">cg</a>
       </td>
     </tr>
+    <tr>
+      <th scope="row">semester-5</th>
+      <td>
+        <a href="https://github.com/niravkagathara/Semester-6">CSA</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-6">TOC</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-6">UIUX</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-6">INS</a><br/>
+        <a href="https://github.com/niravkagathara/Semester-6">IOT</a><br/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
