@@ -53,7 +53,7 @@
       </td>
     </tr>
     <tr>
-      <th scope="row">semester-5</th>
+      <th scope="row">semester-6</th>
       <td>
         <a href="https://github.com/niravkagathara/Semester-6">CSA</a><br/>
         <a href="https://github.com/niravkagathara/Semester-6">TOC</a><br/>
